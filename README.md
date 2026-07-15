@@ -23,10 +23,10 @@ It includes project management documents, Gantt chart, user guide, and backend s
 - [Download Trello Board Snapshot (PDF)](docs/TrelloBoard.pdf)@
 
 ### 📊 Gantt Chart
-- [Download Gantt Chart (PDF)](docs/Grantt_for_ERP.pdf)
+- [Download Gantt Chart (PDF)](Grantt_for_ERP.pdf)
 
 ### 📘 User Guide
-- [Download User Guide (PDF)](docs/User_Guide_forERP.pdf)
+- [Download User Guide (PDF)](User_Guide_forERP.pdf)
 
 ---
 
