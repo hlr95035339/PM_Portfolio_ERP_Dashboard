@@ -11,8 +11,8 @@ It includes project management documents, Gantt chart, user guide, and backend s
 |------|--------------|
 | `index.js` | Frontend entry point for ERP dashboard |
 | `server.js` | Backend server logic (Node.js) |
-| `Grantt_for_ERP.pdf` | Project timeline and task schedule (Gantt Chart) |
-| `User_Guide_forERP.pdf` | User manual for ERP dashboard features |
+| `Grantt_for_ERP-1.png` | Project timeline and task schedule (Gantt Chart) |
+| `User_Guide_forERP.png` | User manual for ERP dashboard features |
 
 ---
 
@@ -23,10 +23,10 @@ It includes project management documents, Gantt chart, user guide, and backend s
 - [Download Trello Board Snapshot (PDF)](docs/TrelloBoard.pdf)@
 
 ### 📊 Gantt Chart
-- [Download Gantt Chart (PDF)](Grantt_for_ERP.pdf)
+- [Download Gantt Chart (PDF)](Grantt_for_ERP-1.png)
 
 ### 📘 User Guide
-- [Download User Guide (PDF)](User_Guide_forERP.pdf)
+- [Download User Guide (PDF)](User_Guide_forERP.png)
 
 ---
 
