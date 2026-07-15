@@ -25,7 +25,7 @@ It includes project management documents, Gantt chart, user guide, and backend s
 ### 📊 Gantt Chart
  ![Gantt Chart](Grantt_for_ERP-1.png)
 
-### 📘 User Guide
+### 📘 User Guide [User_Guide_forERP.pdf(download)]
  ![User Guide](User_Guide_forERP.png)
 
 ---
