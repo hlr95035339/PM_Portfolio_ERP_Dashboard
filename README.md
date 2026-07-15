@@ -1,7 +1,6 @@
 # ERP Dashboard Project Portfolio
 
-This repository showcases the ERP Dashboard project managed and coordinated by Lirong.  
-It includes project management documents, Gantt chart, user guide, and backend source files.
+This repository showcases the ERP Dashboard project managed and coordinated by Lirong.  It includes project management documents, Gantt chart, user guide, and backend source files.
 
 ---
 
