@@ -5,32 +5,32 @@ It includes project management documents, Gantt chart, user guide, and backend s
 
 ---
 
-## 📂 Project Files
+## Project Files
 
 | File | Description |
 |------|--------------|
 | `index.js` | Frontend entry point for ERP dashboard |
 | `server.js` | Backend server logic (Node.js) |
-| `Gantt for ERP - 工作表1.pdf` | Project timeline and task schedule (Gantt Chart) |
-| `User Guide forERP.pdf` | User manual for ERP dashboard features |
+| `Grantt_for_ERP.pdf` | Project timeline and task schedule (Gantt Chart) |
+| `User_Guide_forERP.pdf` | User manual for ERP dashboard features |
 
 ---
 
-## 🗂️ Project Management Overview
+## Project Management Overview
 
 ### 🔗 Trello Board
-- [View Trello Board (Live)](https://trello.com/b/xxxxxx)  
-- [Download Trello Board Snapshot (PDF)](docs/TrelloBoard.pdf)
+- [View Trello Board (Live)](https://trello.com/b/xxxxxx)  @
+- [Download Trello Board Snapshot (PDF)](docs/TrelloBoard.pdf)@
 
 ### 📊 Gantt Chart
-- [Download Gantt Chart (PDF)](docs/Gantt%20for%20ERP%20-%20工作表1.pdf)
+- [Download Gantt Chart (PDF)](docs/Grantt_for_ERP.pdf)
 
 ### 📘 User Guide
-- [Download User Guide (PDF)](docs/User%20Guide%20forERP.pdf)
+- [Download User Guide (PDF)](docs/User_Guide_forERP.pdf)
 
 ---
 
-## 🎨 Trello Labels (Legend)
+## Trello Labels (Legend)
 - 🔴 Backend / API Development  
 - 🟡 System Design / Architecture  
 - 🟢 Frontend UI / Integration  
@@ -41,7 +41,7 @@ It includes project management documents, Gantt chart, user guide, and backend s
 
 ---
 
-## ✅ Reflection
+## Reflection
 This project demonstrates:
 - Clear task tracking via Trello board  
 - Structured timeline using Gantt chart  
@@ -50,7 +50,7 @@ This project demonstrates:
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 - Node.js  
 - Express.js  
 - Chart.js  
