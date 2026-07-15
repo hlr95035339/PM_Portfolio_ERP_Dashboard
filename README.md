@@ -27,7 +27,7 @@ It includes project management documents, Gantt chart, user guide, and backend s
 
 ### 📘 User Guide 
 - [User Guide (PDF)](User_Guide_forERP.pdf)
- ![User Guide](<img src="User_Guide_forERP.png" alt="User Guide" style="width:50%;">)
+ ![User Guide](User_Guide_forERP.png)<img src="User_Guide_forERP.png" alt="User Guide" style="width:50%;">
 
 ---
 
