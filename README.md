@@ -19,18 +19,18 @@ It includes project management documents, Gantt chart, user guide, and backend s
 ## Project Management Overview
 
 ### 🔗 Trello Board (For Engineers)  
->  追蹤技術任務、進度與協作。
+>  Used to track technical tasks, progress, and collaboration.
 
 - [View Trello Board (Live)](https://trello.com/b/xxxxxx)  @
 - [Download Trello Board Snapshot (PDF)](docs/TrelloBoard.pdf)@
 
 ### 📊 Gantt Chart (For Boss / Management)
-> 展示專案整體時程、里程碑與進度規劃。
+> Provides a clear overview of the project timeline, milestones, and progress planning.
 
  ![Gantt Chart](Grantt_for_ERP-1.png)
 
 ### 📘 User Guide  (For Clients)
-> 提供系統操作說明，確保客戶能順利使用 ERP Dashboard。
+> Explains system usage and ensures customers can successfully operate the ERP Dashboard.
 - [User Guide (PDF)](User_Guide_forERP.pdf)
 <img src="User_Guide_forERP.png" alt="User Guide" style="width:50%;">
 
