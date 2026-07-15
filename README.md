@@ -36,7 +36,7 @@ It includes project management documents, Gantt chart, user guide, and backend s
 
 ---
 
-## Trello Labels (Legend)
+## Trello Labels
 - 🔴 Backend / API Development  
 - 🟡 System Design / Architecture  
 - 🟢 Frontend UI / Integration  
