@@ -65,6 +65,6 @@ This project demonstrates:
 ---
 
 ##  Author
-**Lirong**  📌
+**Lirong📌**  
 Project Management Trainee | Scrum Certified (PSM I)  
 Taipei, Taiwan
