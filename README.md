@@ -10,8 +10,8 @@ It includes project management documents, Gantt chart, user guide, and backend s
 | File | Description |
 |------|--------------|
 | `index.js` | Frontend entry point for ERP dashboard |
-| `server.js` | Backend server logic (Node.js) |
-| `Grantt_for_ERP-1.png` | Project timeline and task schedule (Gantt Chart) |
+| `server.js` | Backend server logic |
+| `Grantt_for_ERP-1.png` | Project timeline and task schedule |
 | `User_Guide_forERP.png` | User manual for ERP dashboard features |
 
 ---
