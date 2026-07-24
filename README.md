@@ -3,6 +3,45 @@
 This repository showcases the ERP Dashboard project managed and coordinated by Lirong.  It includes project management documents, Gantt chart, user guide, and backend source files.
 
 ---
+## Workflow
+
+This ERP Dashboard project followed a structured PM workflow to ensure transparency, alignment, and delivery:
+
+### Requirement Gathering
+
+- Collect boss requests and new client requirements during meetings.
+- Document changes immediately to avoid misalignment.
+
+### Task Tracking
+
+- Break down requirements into actionable tasks.
+- Assign tasks to engineers with clear labels (Backend, Frontend, QA, Documentation).
+- Weekly updates for engineering team to maintain sprint rhythm.
+
+### Timeline Planning 
+
+- Translate tasks into milestones and deadlines.
+- Weekly updates for management to ensure visibility of progress.
+- Adjust timeline when scope changes occur.
+
+### Documentation & Communication
+
+- Maintain technical documentation and PM notes.
+- Update user guide after client feedback or new features.
+- Ensure cross-functional clarity between engineers, management, and clients.
+
+### UAT Testing
+
+- Support User Acceptance Testing with clients.
+- Validate ERP dashboard functionality before release.
+- Capture feedback and feed into Trello for iteration.
+
+### Delivery & Reflection
+
+- Deliver ERP dashboard with complete documentation.
+- Reflect on process efficiency and team collaboration.
+- Identify improvements for future projects.
+---
 
 ## Project Files
 
