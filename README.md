@@ -23,6 +23,9 @@ This repository showcases the ERP Dashboard project managed and coordinated by L
 - [View Trello Board (Live)](https://trello.com/invite/b/6a56f5d03ec78862594e025d/ATTIfde492f2c1d0caa745c47d3dc8df73fbD2982C47/🗓️-weekly-workflow)  
 - [Trello Board Snapshot](TrelloBoard.png)
 
+<img src="./TrelloBoard.png" alt="Trello Board Snapshot" width="80%">
+
+
 ###  Gantt Chart (For Boss / Management)
 > Provides a clear overview of the project timeline, milestones, and progress planning.
 
