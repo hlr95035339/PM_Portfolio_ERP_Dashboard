@@ -3,6 +3,17 @@
 This repository showcases the ERP Dashboard project managed and coordinated by Lirong.  It includes project management documents, Gantt chart, user guide, and backend source files.
 
 ---
+**ERP Concept in Project Management**
+-
+This project adopts the Enterprise Resource Planning concept as a guiding framework for project management. Rather than implementing a full ERP system, we use ERP as a conceptual model  to organize and align tasks across different stages:
+
+- Integration: Connecting planning, design, backend, frontend, testing, and documentation into one unified workflow.  
+- Resource Management: Ensuring people, time, and tools are allocated efficiently.  
+- Process Visibility: Making project progress transparent and traceable, similar to ERP dashboards.  
+
+Note: ERP here is not a complex system implementation. It is applied as a simple concept to structure project management and highlight the importance of integration and visibility.
+
+---
 ## Workflow
 
 This ERP Dashboard project followed a structured PM workflow to ensure transparency, alignment, and delivery:
