@@ -69,6 +69,12 @@ This ERP Dashboard project followed a structured PM workflow to ensure transpare
 
  ![Gantt Chart](Grantt_for_ERP-1.png)
 
+> Advanced Gantt Chart
+ ![ Advanced Gantt Chart](Grantt_for_ERP.png)
+**Purpose:** The advanced chart highlights special and important requirements that go beyond the basic version, ensuring the project roadmap reflects real-world needs such as security, scalability, and maintainability.
+
+
+
 ###  User Guide  (For Clients)
 > Explains system usage and ensures customers can successfully operate the ERP Dashboard.
 - [User Guide (PDF)](User_Guide_forERP.pdf)
