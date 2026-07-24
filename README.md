@@ -52,11 +52,12 @@ This repository showcases the ERP Dashboard project managed and coordinated by L
 
 ## Reflection
 This project demonstrates:
-- Clear task tracking via Trello board  
-- Structured timeline using Gantt chart  
-- Integration of technical and PM documentation  
-- Delivery of a complete ERP dashboard with user guide
-
+- Clear task tracking via Trello board (updated weekly for the engineering team)
+- Structured timeline using Gantt chart (updated weekly for management to ensure progress transparency)
+- Continuous alignment after meetings — promptly updating boss requests and new client requirements
+- Integration of technical and project management documentation
+- Delivery of a complete ERP dashboard with a detailed user guide
+- Support for UAT testing, assisting in validating system functionality before release
 ---
 
 ## Tech Stack
