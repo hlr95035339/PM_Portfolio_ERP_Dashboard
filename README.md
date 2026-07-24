@@ -20,7 +20,7 @@ This repository showcases the ERP Dashboard project managed and coordinated by L
 ### 🔗 Trello Board (For Engineers)  
 >  Used to track technical tasks, progress, and collaboration.
 
-- [View Trello Board (Live)](https://trello.com/b/xxxxxx)  @
+- [View Trello Board (Live)](https://trello.com/invite/b/6a56f5d03ec78862594e025d/ATTIfde492f2c1d0caa745c47d3dc8df73fbD2982C47/🗓️-weekly-workflow)  @
 - [Download Trello Board Snapshot (PDF)](docs/TrelloBoard.pdf)@
 
 ### 📊 Gantt Chart (For Boss / Management)
