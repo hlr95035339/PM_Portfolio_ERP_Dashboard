@@ -1,4 +1,4 @@
-# ERP Dashboard Project Portfolio
+# ERP Dashboard Project Management Portfolio
 
 This repository showcases the ERP Dashboard project managed and coordinated by Lirong.  It includes project management documents, Gantt chart, user guide, and backend source files.
 
@@ -31,7 +31,7 @@ This repository showcases the ERP Dashboard project managed and coordinated by L
 ###  User Guide  (For Clients)
 > Explains system usage and ensures customers can successfully operate the ERP Dashboard.
 - [User Guide (PDF)](User_Guide_forERP.pdf)
-<img src="User_Guide_forERP.png" alt="User Guide" style="width:50%;">
+<img src="User_Guide_forERP.png" alt="User Guide" style="length:50%;">
 
 ---
 
