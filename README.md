@@ -106,8 +106,8 @@ This ERP Dashboard project followed a structured PM workflow to ensure transpare
 
 ---
 
-## Reflection
-This project demonstrates:
+## Demonstrates:
+
 - Clear task tracking via Trello board (updated weekly for the engineering team)
 - Structured timeline using Gantt chart (updated weekly for management to ensure progress transparency)
 - Continuous alignment after meetings — promptly updating boss requests and new client requirements
